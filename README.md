@@ -1,6 +1,7 @@
 # 👋 Hi, I'm Hasitha Chamod
 
 💻 Software Engineering Undergraduate | Passionate about Full-Stack Development  
+🌐 [LinkedIn](https://www.linkedin.com/in/hasitharambukpitiya/)
 
 🌱 Currently learning: **ReactJS**, **Node.js**, **Python**, **Kotlin**, **Java**
 
