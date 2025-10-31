@@ -1,7 +1,6 @@
 # 👋 Hi, I'm Hasitha Chamod
 
 💻 Software Engineering Undergraduate | Passionate about Full-Stack Development  
-🌐 [LinkedIn](https://www.linkedin.com/in/hasitharambukpitiya/)
 
 🌱 Currently learning: **ReactJS**, **Node.js**, **Python**, **Kotlin**, **Java**
 
@@ -10,6 +9,7 @@
 - [Payroll app](https://github.com/Hasitha02/payroll-app) — React payroll app
 
 📫 Reach me at: [hasitharambukpitiya0214@gmail.com](mailto:hasitharambukpitiya0214@gmail.com)
+🌐 [LinkedIn](https://www.linkedin.com/in/hasitharambukpitiya/)
 
 ---
 
