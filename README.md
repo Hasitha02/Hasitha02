@@ -1,16 +1,30 @@
-## Hi there 👋
+# 👋 Hi, I'm Hasitha Chamod
 
-<!--
-**Hasitha02/Hasitha02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Software Engineering Undergraduate | Passionate about Full-Stack Development  
 
-Here are some ideas to get you started:
+🌱 Currently learning: **ReactJS**, **Node.js**, **Python**, **Kotlin**, **Java**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🚀 Projects:
+- [NAITA system](https://github.com/Hasitha02/NAITA-System) — Student management system for NAITA
+- [Payroll app](https://github.com/Hasitha02/payroll-app) — React payroll app
+
+📫 Reach me at: [hasitharambukpitiya0214@gmail.com](mailto:hasitharambukpitiya0214@gmail.com)
+
+---
+
+### 🧰 Languages and Tools
+<p>
+  <img src="https://skillicons.dev/icons?i=python,java,js,react,nodejs,sqlite,mysql,html,css,git,github" />
+</p>
+
+---
+
+### 📊 GitHub Stats
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Hasitha02&show_icons=true&theme=tokyonight)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hasitha02&layout=compact&theme=tokyonight)
+
+---
+
+### 🏆 Achievements
+![trophy](https://github-profile-trophy.vercel.app/?username=Hasitha02&theme=gruvbox)
