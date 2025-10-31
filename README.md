@@ -8,8 +8,8 @@
 - [NAITA system](https://github.com/Hasitha02/NAITA-System) — Student management system for NAITA
 - [Payroll app](https://github.com/Hasitha02/payroll-app) — React payroll app
 
-📫 Reach me at: [hasitharambukpitiya0214@gmail.com](mailto:hasitharambukpitiya0214@gmail.com)
-🌐 [LinkedIn](https://www.linkedin.com/in/hasitharambukpitiya/)
+- 📫 Reach me at: [hasitharambukpitiya0214@gmail.com](mailto:hasitharambukpitiya0214@gmail.com)
+- 🌐 [LinkedIn](https://www.linkedin.com/in/hasitharambukpitiya/)
 
 ---
 
